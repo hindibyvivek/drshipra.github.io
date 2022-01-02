@@ -54,10 +54,13 @@
 		</ul>
 	</div>
 
-<p>
 	
-	</p>
-	 
+	<div id="right">
+
+	   <img id=self src="images/v2.png"
+	  alt="qp fest 2015 (c) lelia glass">
+		<h2>recent &#38; upcoming</h2>
+		
 	 <!--	 <p><a href="https://sites.google.com/site/sinnundbedeutung21/">SuB
 	 21</a> <br>Edinburgh, Sept 4-6, 2016</p> -->
 
